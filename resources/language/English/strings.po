@@ -62,7 +62,7 @@ msgid "Authentication failed"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Unable to login to your TV provider.[CR][CR]Please make sure that you have successfully activated your code on [B]foxsportsgo.com/activate[/B]."
+msgid "Unable to login to your TV provider.[CR][CR]Please make sure that you successfully activated your code before you clicked OK."
 msgstr ""
 
 msgctxt "#30014"
@@ -115,4 +115,40 @@ msgstr ""
 
 msgctxt "#30026"
 msgid "Featured"
+msgstr ""
+
+msgctxt "#30027"
+msgid "OK"
+msgstr ""
+
+msgctxt "#30028"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "#30029"
+msgid "Try again"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Authentication details"
+msgstr ""
+
+msgctxt "#30031"
+msgid "TV provider"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Entitlements"
+msgstr ""
+
+msgctxt "#30033"
+msgid "This session will expire on"
+msgstr ""
+
+msgctxt "#30034"
+msgid "Log out"
+msgstr ""
+
+msgctxt "#30035"
+msgid "Are you sure you want to log out? This will reload the add-on and force you to re-authenticate."
 msgstr ""
